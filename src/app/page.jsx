@@ -1,6 +1,6 @@
 import FeaturedProject from "@/components/FeaturedProject";
 import HeroList from "@/components/HeroList/HeroList";
-import StatList from "@/components/StatList";
+import StatList from "@/components/StatList/StatList";
 import WorkList from "@/components/WorkList";
 import Subscribe from "@/components/Subscribe";
 
